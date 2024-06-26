@@ -1,0 +1,36 @@
+body {
+ color: #454545;
+ background-color: #abcae8;
+}
+
+h1 {
+ color: #79a1d4;
+ background-color: #ffeed5
+}
+
+#sample1 {
+ border-style: double;
+ border-color: #ffeed5;
+ margin-top: 5%;
+ margin-bottom: 5%;
+ color: #454545;
+ background-color: #9fbcdf;
+}
+
+#sample2 {
+ border-style: double;
+ border-color: #ffeed5;
+ margin-top: 5%;
+ margin-bottom: 5%;
+ color: #454545;
+ background-color: #9fbcdf;
+}
+
+#sample3 {
+ border-style: double;
+ border-color: #ffeed5;
+ margin-top: 5%;
+ margin-bottom: 5%;
+ color: #454545;
+ background-color: #9fbcdf;
+}
